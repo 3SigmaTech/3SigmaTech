@@ -25,7 +25,7 @@ For example, so far in 2023 I've:
 - Got back (getting back) in shape - and teaching some friends how to do the same.
   - For those interested, here is [a fairly NSFW overview](https://docs.google.com/document/d/1lcc9W6jf807RrWAjMYIdhg6Wmy0mO_EdptkUOZIlByc/edit#heading=h.qfz8udzamj37) of the approach I take. 
 - Worked on go-to-market and market discovery strategies for [Section 8 Secrets](https://www.section8secrets.net/).
-- Started using [Salesforce Trailblazer](https://trailblazer.me/id/lvanblaircum1) in May '23 to _finally_ get some certifications.
+- Started using [Salesforce Trailblazer](https://trailblazer.me/id/lvanblaircum) in May '23 to _finally_ get some certifications.
     - I've been an admin, developer, and implementation consultant for many years but never bothered with the certs. I'm rectifying that now (Certified Admin, Advanced Admin, and App Builder thus far; hoping to rep out a few more in the coming couple of months).
 
 <br/><br/>
