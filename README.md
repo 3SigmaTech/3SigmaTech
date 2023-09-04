@@ -1,4 +1,4 @@
-# Yo! I'm Lucus :metal:
+# Hello! I'm Lucus :metal:
 
 Backstory on the Github account name: Several years ago I created an LLC for doing consulting work - I called it 3Sigma Technologies because "It isn't perfect, but it's pretty damned close" was kind of my operational paradigm at the time...and still is. With that out of the way, let me quickly overview what you'll find in my assorted repos then talk about what I have done and am looking to do.
 
@@ -26,7 +26,7 @@ For example, so far in 2023 I've:
   - For those interested, here is [a fairly NSFW overview](https://docs.google.com/document/d/1lcc9W6jf807RrWAjMYIdhg6Wmy0mO_EdptkUOZIlByc/edit#heading=h.qfz8udzamj37) of the approach I take. 
 - Worked on go-to-market and market discovery strategies for [Section 8 Secrets](https://www.section8secrets.net/).
 - Started using [Salesforce Trailblazer](https://trailblazer.me/id/lvanblaircum) in May '23 to _finally_ get some certifications.
-    - I've been an admin, developer, and implementation consultant for many years but never bothered with the certs. I'm rectifying that now (Certified Admin, Advanced Admin, App Builder, Platform Developer I, and Platform Developer II thus far; hoping to rep out a few more in the coming couple of months).
+    - I've been an admin, developer, and implementation consultant for many years but never bothered with the certs. I'm rectifying that now (Certified Admin, Advanced Admin, App Builder, Platform Developer I, Platform Developer II, Javascript Developer thus far; hoping to rep out a few more in the coming couple of months).
 
 <br/><br/>
 
