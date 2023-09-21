@@ -22,13 +22,15 @@ For example, so far in 2023 I've:
 - Found out you can [create entity diagrams in Readme files](https://github.com/3SigmaTech/3Sigma-Surveys)! THAT IS SO AWESOME!!!
     - The above repo is part of a collection of Salesforce repos (including [this one](https://github.com/3SigmaTech/3sigma-invites) and [this one](https://github.com/3SigmaTech/3sigma-reports)) I had laying around from past work. These repos came about from Step 2 of the sequence of `Have Problem ` &#8594; ` Prototype [Removable] Solution ` &#8594; ` Implement [Longterm] Solution`. So, while they do what they're supposed to, they are a good deal removed from "production grade". And they are very, very out dated.
 - ...
+- Started using [Salesforce Trailblazer](https://trailblazer.me/id/lvanblaircum) in May '23 to _finally_ get some certifications.
+    - I've been an admin, developer, and implementation consultant for many years but never bothered with the certs. I'm rectifying that now (Certified Admin, Advanced Admin, App Builder, Platform Developer I, Platform Developer II, Javascript Developer thus far; hoping to rep out a few more in the coming couple of months).
+- ...
 - Wrote an [obtusely long self-introduction](https://docs.google.com/document/d/1Y4dg5QyOExf5WgZldZP5R3u8c13K4jZG/edit#).
 - Made up for some lost time with my German Shepherd - lots and lots and lots of walks.
 - Getting into shape - and teaching some friends how to do the same.
   - For those interested, here is [a fairly...aggressively written overview](https://docs.google.com/document/d/1lcc9W6jf807RrWAjMYIdhg6Wmy0mO_EdptkUOZIlByc/edit#heading=h.qfz8udzamj37) of the approach I take. (While I plan to rework this into a more effective action plan, it suffices to transfer some useful knowledge.)
 - Worked on go-to-market and market discovery strategies for [Section 8 Secrets](https://www.section8secrets.net/).
-- Started using [Salesforce Trailblazer](https://trailblazer.me/id/lvanblaircum) in May '23 to _finally_ get some certifications.
-    - I've been an admin, developer, and implementation consultant for many years but never bothered with the certs. I'm rectifying that now (Certified Admin, Advanced Admin, App Builder, Platform Developer I, Platform Developer II, Javascript Developer thus far; hoping to rep out a few more in the coming couple of months).
+- Studied for, and passed, the [Certified Strength and Conditioning Specialist](https://www.nsca.com/certification/cscs/) exam. Not for any professional aspirations, more because I take my hobbies unusually seriously (and since my workouts could best be described as "certifiable" I figured I might as well be, too).
 
 <br/><br/>
 
